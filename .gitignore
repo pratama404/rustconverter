@@ -1,0 +1,16 @@
+# === Rust Build Files ===
+/target/
+
+# === Cargo Package Info ===
+**/*.rs.bk
+Cargo.lock
+
+# === Logs and Misc ===
+*.log
+
+# === VS Code ===
+.vscode/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
