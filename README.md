@@ -9,7 +9,7 @@ Aplikasi ini juga menyimpan **riwayat konversi** agar pengguna dapat melihat has
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/pratama404/unitconv.git
+git clone https://github.com/pratama404/rustconverter.git
 cd unitconv
 ```
 
@@ -169,5 +169,5 @@ Riwayat Konversi:
 
 ---
 
-> “Rust membuat program cepat dan aman, UnitConv membuat konversi jadi menyenangkan.” 🦀
+> “Rust membuat program cepat dan aman.” 🦀
 Hellcome Rustaceans
