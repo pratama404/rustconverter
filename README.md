@@ -10,7 +10,7 @@ Aplikasi ini juga menyimpan **riwayat konversi** agar pengguna dapat melihat has
 ### 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/pratama404/rustconverter.git
-cd unitconv
+cd rustconverter
 ```
 
 ### 2️⃣ Build Proyek
